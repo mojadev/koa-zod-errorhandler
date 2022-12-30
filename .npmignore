@@ -1,0 +1,10 @@
+node_modules/
+src/*.ts
+.github/
+**/*.ts
+*.ts
+*.js
+*.json
+.*
+!dist/*.d.ts
+!dist/*.js
